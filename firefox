@@ -1,0 +1,5 @@
+IE7/8 for Firefox:
+https://github.com/yuvia08/rinfox_updated (must use Firefox 115 ESR)
+
+YouTube frontend:
+https://vorapis.pages.dev/#/ + https://github.com/lightbeam24/StarTube (requires tampermonkey. https://addons.mozilla.org/en-CA/firefox/addon/tampermonkey/)
